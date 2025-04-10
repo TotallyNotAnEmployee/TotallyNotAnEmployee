@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TotallyNotAnEmployee
+- 👋 Hi, I’m Mo aka @TotallyNotAnEmployee
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React and Blazor
 - 💞️ I’m looking to collaborate on web dev
